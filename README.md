@@ -8,12 +8,19 @@
 
 # Testing formatting
 **Bold**
+
 *Italic*
+
 ***Bold & italic***
+
 ==Highlight==
+
 ~~Strike through~~
+
 `# Code`
+
 $Maths$
+
 %% Comment %%
 
 # Testing inserts
@@ -44,5 +51,8 @@ $$
 ![[Ding.m4a]]
 
 [planet of the apes Memes & GIFs - Imgflip|316](https://imgflip.com/tag/planet%20of%20the%20apes)
+
+==NOTE:==
+This formatting is copied then pasted directly from Obsidian source code.
 
 ![[Word.pdf]]
