@@ -5,9 +5,9 @@ For this experiment I will be setting up two links
 - Local connect - Using the Obsidian URL path
 - Global connect - Using note published URL path.
 
-The QR code generator:
-![[Screenshot 2026-09-08 103904.png]]
+The QR code generated:
+<img width="180" height="180" alt="bing_generated_qrcode" src="https://github.com/user-attachments/assets/96951d77-09ee-45e9-8a3d-ae2f79fd2763" />
 
 Results:
-- Local connect: 
+- Local connect: Success
 - Global connect:
